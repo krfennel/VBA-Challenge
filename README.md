@@ -63,9 +63,3 @@ You are well on your way to becoming a programmer and Excel master! In this home
 * Ensure your repository has regular commits (i.e. 20+ commits), a thorough README.md file
 
 * After everything has been saved, create a sharable link and submit that to <https://bootcampspot-v2.com/>.
-
-- - -
-
-### Copyright
-
-Trilogy Education Services © 2019. All Rights Reserved.
